@@ -1,0 +1,9 @@
+   0 mkdir -p /home/linux
+   1 touch /home/linux/myfirstbashscrirp.sh
+   2 chmod u+x /home/linux/myfirstbashscrirp.sh
+   3 ls -l /home/linux
+   4 export USER=irina
+   5 vi ./myfirstbashscript.sh
+   6 chmod u+x myfirstbashscript.sh
+   7 ./myfirstbashscript.sh
+   8 history > historyprew1.txt
